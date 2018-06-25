@@ -1,0 +1,15 @@
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\bin\Debug\SearchService.exe.config
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\bin\Debug\SearchService.exe
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\bin\Debug\SearchService.pdb
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\SearchService.csprojAssemblyReference.cache
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\MainWindow.g.cs
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\App.g.cs
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\SearchService_MarkupCompile.cache
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\SearchService_MarkupCompile.lref
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\MainWindow.baml
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\SearchService.g.resources
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\SearchService.Properties.Resources.resources
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\SearchService.csproj.GenerateResource.cache
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\SearchService.csproj.CoreCompileInputs.cache
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\SearchService.exe
+C:\Users\RUDOL\Downloads\Final2017\SearchService\SearchService\obj\Debug\SearchService.pdb

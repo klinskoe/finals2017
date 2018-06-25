@@ -1,0 +1,14 @@
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\bin\Debug\TwoStepAuth.exe.config
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\bin\Debug\TwoStepAuth.exe
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\bin\Debug\TwoStepAuth.pdb
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\bin\Debug\EntityFramework.dll
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\bin\Debug\EntityFramework.xml
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\obj\Debug\TwoStepAuth.csprojAssemblyReference.cache
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\obj\Debug\TwoStepAuth.csproj.CoreCompileInputs.cache
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\obj\Debug\TwoStepAuth.csproj.CopyComplete
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\obj\Debug\TwoStepAuth.exe
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\obj\Debug\TwoStepAuth.pdb
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\obj\Debug\TwoStepAuth.Migrations.mda.resources
+C:\Users\RUDOL\Downloads\Final2017\TwoStepAuth\TwoStepAuth\obj\Debug\TwoStepAuth.csproj.GenerateResource.cache
